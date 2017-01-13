@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F206E2BB4520B3921D6ED0B3AA924D5427AAD2AB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F206E2BB4520B3921D6ED0B3AA924D5427AAD2AB" : 0,
+    "F7683CBE873222BF3D6D6745222B895C805DA1C7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "235E847B-2FAF-4ED9-A7DA-BBD2BABA9C67",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F206E2BB4520B3921D6ED0B3AA924D5427AAD2AB" : "MDCollectionView\/",
+    "F7683CBE873222BF3D6D6745222B895C805DA1C7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MDCollectionView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MDCollectionView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/joey520\/MDCollectionView",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F206E2BB4520B3921D6ED0B3AA924D5427AAD2AB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/joey520\/LeTableViewAnimation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F7683CBE873222BF3D6D6745222B895C805DA1C7"
+    }
+  ]
+}
